@@ -1,0 +1,9 @@
+2022-08-18 14:39:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PAYMENT_TB" not found (this database is empty); SQL statement:
+select payment0_.payment_id as payment_1_0_0_, payment0_.amount as amount2_0_0_, payment0_.order_id as order_id3_0_0_, payment0_.payment_status as payment_4_0_0_, payment0_.transaction_id as transact5_0_0_ from payment_tb payment0_ where payment0_.payment_id=? [42104-214]
+2022-08-18 14:42:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PAYMENT_TB" not found (this database is empty); SQL statement:
+select payment0_.payment_id as payment_1_0_0_, payment0_.amount as amount2_0_0_, payment0_.order_id as order_id3_0_0_, payment0_.payment_status as payment_4_0_0_, payment0_.transaction_id as transact5_0_0_ from payment_tb payment0_ where payment0_.payment_id=? [42104-214]
+2022-08-18 14:42:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PAYMENT_TB" not found (this database is empty); SQL statement:
+select payment0_.payment_id as payment_1_0_0_, payment0_.amount as amount2_0_0_, payment0_.order_id as order_id3_0_0_, payment0_.payment_status as payment_4_0_0_, payment0_.transaction_id as transact5_0_0_ from payment_tb payment0_ where payment0_.payment_id=? [42104-214]
